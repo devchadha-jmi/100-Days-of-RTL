@@ -26,7 +26,7 @@ module Day3_100Bit_Adder_tb();
   parameter N = 100'b1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111;
  initial
     begin
-      for (int i = 0; i < 500; i++) 
+      for (int i = 0; i < 25; i++) 
           begin
             A  = $urandom_range (0, N);
             B  = $urandom_range (0, N);
