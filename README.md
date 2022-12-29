@@ -12,3 +12,4 @@
 | Day 6         |   5x32 Decoder  | [5x32 Decoder](https://edaplayground.com/x/CsBA)  |
 | Day 7         |   Priority Encoder  | [Priority Encoder](https://edaplayground.com/x/pV_w)  |
 | Day 8         |   4 Digit BCD Adder  | [4 Digit BCD Adder](https://edaplayground.com/x/RFGh)  |
+| Day 9         |   Binary to Gray Converter  | [Binary to Gray Converter](https://edaplayground.com/x/AJcr)  |
