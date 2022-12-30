@@ -4,7 +4,7 @@
 
 | Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
-| Day 1       | [Full Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%201%20Full%20Adder) | https://edaplayground.com/x/NXh_  |
+| Day 1       | [Full Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%201%20Full%20Adder) | [https://edaplayground.com/x/NXh_](https://edaplayground.com/x/NXh_)  |
 | Day 2       | [Ripple Carry Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%202%20Ripple%20Carry%20Adder) | https://edaplayground.com/x/rLGw |
 | Day 3       | [100 Bit Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%203%20100bit%20Adder) | https://edaplayground.com/x/GxAs |
 | Day 4       | [2X1 MUX](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%204%202X1%20Mux)  | https://edaplayground.com/x/8dUs  |
