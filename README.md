@@ -2,7 +2,7 @@
 
 ###  Just trying to follow the trend :-)
 
-| Day         | Github                                                           | EDAPlayground Link                                             |
+| Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
 | Day 1       | [Full Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%201%20Full%20Adder) | https://edaplayground.com/x/NXh_  |
 | Day 2       | [Ripple Carry Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%202%20Ripple%20Carry%20Adder) | https://edaplayground.com/x/rLGw |
