@@ -1,4 +1,4 @@
-#Full Adder
+# Full Adder
 
 This is a basic behavioral design of a 4bit full adder.
 - Concatenation Operator is used to concatenate Sum and Cout variables and store the sum of A, B and input carry.
