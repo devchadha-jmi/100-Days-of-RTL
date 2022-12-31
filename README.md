@@ -14,3 +14,4 @@
 | Day 8       | [4 Digit BCD Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%208%204digit%20BCD%20Adder) | https://edaplayground.com/x/RFGh  |
 | Day 9       | [Binary to Gray Converter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%209%20Binary%20to%20Gray%20Converter)| https://edaplayground.com/x/AJcr  |
 | Day 10      | [Comparator](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2010%20Comparator) | https://edaplayground.com/x/YHcu  |
+| Day 11      | [Vector Reversal](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2011%20Vector%20Reversal) | https://edaplayground.com/x/RGpR  |
