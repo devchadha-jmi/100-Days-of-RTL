@@ -15,3 +15,4 @@
 | Day 9       | [Binary to Gray Converter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%209%20Binary%20to%20Gray%20Converter)| https://edaplayground.com/x/AJcr  |
 | Day 10      | [Comparator](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2010%20Comparator) | https://edaplayground.com/x/YHcu  |
 | Day 11      | [Vector Reversal](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2011%20Vector%20Reversal) | https://edaplayground.com/x/RGpR  |
+| Day 12      | [Adder Subtractor](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2012%20Adder-Subtractor) | https://edaplayground.com/x/Ep_t  |
