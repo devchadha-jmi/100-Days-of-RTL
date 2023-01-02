@@ -10,7 +10,8 @@ It consists of seven segments of light-emitting diodes (LEDs) which are assemble
   
 </p>
 
-
+Each one of the seven LEDs in the display is given a positional segment with one of its connection pins being brought straight out of the rectangular plastic package.
+So by forward biasing the appropriate pins of the LED segments in a particular order, some segments will be light and others will be dark allowing the desired character pattern of the number to be generated on the display. This then allows us to display each of the ten decimal digits 0 through to 9 on the same 7-segment display.
 
 <p align="center">
   
@@ -18,8 +19,15 @@ It consists of seven segments of light-emitting diodes (LEDs) which are assemble
   
 </p>
 
+#### Below is the truth table followed to design the seven segment display controller in verilog
+
 <p align="center">
   
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/82091082/210267852-28d5f68d-f8db-43d3-8b15-76288a575f7a.png">
   
 </p>
+
+##### Sources to learne more: 
+- [Electronics Tutorials](https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html)
+- [Pinterest](https://www.pinterest.com/pin/614671049121231992/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/seven-segment-displays/)
