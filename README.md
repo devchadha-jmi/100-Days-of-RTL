@@ -21,4 +21,4 @@
 | Day 15      | [D Flip Flop(Asynchronous Reset)](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2015%20D%20Flip-Flop%20Asynchronous%20Reset) | https://edaplayground.com/x/Yq8V  |
 | Day 16      | [T Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2016%20TFF) | https://edaplayground.com/x/awmg  |
 | Day 17      | [Up Down Counter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2017%20Up-Down%20Counter) | https://edaplayground.com/x/mGvP  |
-
+| Day 18      | [Even Counter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2018%20Even%20Counter) | https://edaplayground.com/x/Ma3P  |
