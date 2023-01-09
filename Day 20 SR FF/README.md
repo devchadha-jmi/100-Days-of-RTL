@@ -3,7 +3,8 @@ This device consists of two inputs, one called the Set, S and the other called t
 
 <p align="center">
   
-<img width="443" alt="image" src="https://user-images.githubusercontent.com/82091082/211379405-7760c29d-aa41-4dd3-80e5-5acb74dcd95d.png">
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/82091082/211381454-1a05ced8-1502-471e-8ab4-08e8b0b63f47.png">
+
 
   </p>
   
