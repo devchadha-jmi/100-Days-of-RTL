@@ -23,3 +23,4 @@
 | Day 17      | [Up Down Counter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2017%20Up-Down%20Counter) | https://edaplayground.com/x/mGvP  |
 | Day 18      | [Even Counter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2018%20Even%20Counter) | https://edaplayground.com/x/Ma3P  |
 | Day 19      | [JK Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2019%20JK%20FF) | https://edaplayground.com/x/6cmS |
+| Day 20      | [SR Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2020%20SR%20FF) | https://edaplayground.com/x/8gej |
