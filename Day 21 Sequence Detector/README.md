@@ -1,4 +1,4 @@
-# Dequence Detector "101"
+# Sequence Detector "101" (overlapping type)
 
 The problem statement for the following was to design a sequence detector, that would detect "101" in the given input bit-stream.
 It has been implemented using a finite state machine with the following state diagram.
