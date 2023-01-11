@@ -25,3 +25,4 @@
 | Day 19      | [JK Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2019%20JK%20FF) | https://edaplayground.com/x/6cmS |
 | Day 20      | [SR Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2020%20SR%20FF) | https://edaplayground.com/x/8gej |
 | Day 21      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2021%20Sequence%20Detector) | https://www.edaplayground.com/x/QQwT |
+| Day 22      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2022%20Sequence%20Detector) | https://edaplayground.com/x/hf3J |
