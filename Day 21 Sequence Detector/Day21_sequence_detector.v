@@ -1,3 +1,5 @@
+// 101 Sequence Detector overlapping type
+
 module Day21_sequence_detector(input clk, 
                                input seq, 
                                output reg detected);
