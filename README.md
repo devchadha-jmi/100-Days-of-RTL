@@ -28,3 +28,4 @@
 | Day 22      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2022%20Sequence%20Detector) | https://edaplayground.com/x/hf3J |
 | Day 23      | [Better BCD Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2023%20Better%20BCD%20Adder) | https://edaplayground.com/x/qGTS |
 | Day 24      | [ALU](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2024%20ALU) | https://edaplayground.com/x/aC4b |
+| Day 25      | [Valid BCD Test](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2025%20Valid%20BCD%20Test) | https://edaplayground.com/x/eWbE |
