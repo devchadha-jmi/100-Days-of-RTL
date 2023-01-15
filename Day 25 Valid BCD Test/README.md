@@ -1,6 +1,6 @@
 # Valid BCD Test
 
-This design has been taken from a very recent problem I solved.
+This design has been taken from a problem I solved very recently.
 
 Probem Statement:
 
