@@ -10,5 +10,8 @@ Let P0 is the output control line, it should be set to 1 if input is valid BCD a
 
 My Solution:
 
+![WhatsApp Image 2023-01-15 at 11 20 01 PM (2)](https://user-images.githubusercontent.com/82091082/212558571-d51a73c9-ba40-4f1b-8dc3-b4e410990815.jpeg)
 
+The answer is 6 logic gates.
+Next task can be to synthesise the behavioral code and compare the netlists.. Will do some other day!!
 
