@@ -1,6 +1,6 @@
 # Comparator - Different Approach
 
-On [Day 10](), I solved a problem that described a 2-bit comparator by Boolean equations and a netlist of primitives , and a set of continuous assign-ments.
+On [Day 10](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2010%20Comparator), I solved a problem that described a 2-bit comparator by Boolean equations and a netlist of primitives , and a set of continuous assign-ments.
 
 The model used today, "Comparator - Different Approach", describes the functionality of a 2-bit comparator by a level-sensitive behavior.
 Its algorithm exploits the fact that the data words are identical if all of their bits match in each position. Otherwise, the most significant bit at which the words differ determines their relative magnitude. 
