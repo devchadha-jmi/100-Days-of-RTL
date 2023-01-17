@@ -2,6 +2,8 @@
 
 ###  Just trying to follow the trend :-)
 
+##### From Day 1-25, I have tried basic designs. Just wanted to revise the semantics and basic rules!!
+
 | Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
 | Day 1       | [Full Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%201%20Full%20Adder) | [https://edaplayground.com/x/NXh_](https://edaplayground.com/x/NXh_)  |
@@ -31,6 +33,7 @@
 | Day 25      | [Valid BCD Test](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2025%20Valid%20BCD%20Test) | https://edaplayground.com/x/eWbE |
 
 
+##### Started to follow "Advanced Digital Design with the Verilog HDL by Michael D. Ciletti", here onwards!!
 | Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | --------------------------------------------------------------- |
 | Day 26      | [Comparator (A new approach)](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2026%20Comparator%20(Better%20Approach)) | https://edaplayground.com/x/Mb2X |
