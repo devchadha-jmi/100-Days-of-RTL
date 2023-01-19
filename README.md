@@ -37,3 +37,8 @@
 | Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | --------------------------------------------------------------- |
 | Day 26      | [Comparator (A new approach)](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2026%20Comparator%20(Better%20Approach)) | https://edaplayground.com/x/Mb2X |
+| Day 27      | [PIPO](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2027%20PIPO) | https://edaplayground.com/x/VVwH |
+
+
+
+https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2027%20PIPO
