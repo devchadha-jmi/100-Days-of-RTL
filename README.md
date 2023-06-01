@@ -39,3 +39,4 @@
 | Day 26      | [Comparator (A new approach)](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2026%20Comparator%20(Better%20Approach)) | https://edaplayground.com/x/Mb2X |
 | Day 27      | [PIPO](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2027%20PIPO) | https://edaplayground.com/x/VVwH |
 | Day 28      | [sn54170](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2028%20sn54170) | https://edaplayground.com/x/kQUr |
+| Day 29      | [Positive Edge Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2029%20Positive%20Edge%20Detector) | https://edaplayground.com/x/juZR |
