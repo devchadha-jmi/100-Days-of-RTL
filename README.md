@@ -26,17 +26,13 @@
 | Day 18      | [Even Counter](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2018%20Even%20Counter) | https://edaplayground.com/x/Ma3P  |
 | Day 19      | [JK Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2019%20JK%20FF) | https://edaplayground.com/x/6cmS |
 | Day 20      | [SR Flip Flop](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2020%20SR%20FF) | https://edaplayground.com/x/8gej |
-| Day 21      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2021%20Sequence%20Detector) | https://www.edaplayground.com/x/QQwT |
+| Day 21      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2021%20Sequence%20Detector) | https://edaplayground.com/x/QQwT |
 | Day 22      | [Sequence Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2022%20Sequence%20Detector) | https://edaplayground.com/x/hf3J |
 | Day 23      | [Better BCD Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2023%20Better%20BCD%20Adder) | https://edaplayground.com/x/qGTS |
 | Day 24      | [ALU](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2024%20ALU) | https://edaplayground.com/x/aC4b |
 | Day 25      | [Valid BCD Test](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2025%20Valid%20BCD%20Test) | https://edaplayground.com/x/eWbE |
-
-
-##### Started to follow "Advanced Digital Design with the Verilog HDL by Michael D. Ciletti", here onwards!!
-| Day         | Github                                                           |  EDAPlayground Link                                             |
-| ----------  | ---------------------------------------------------------------- | --------------------------------------------------------------- |
 | Day 26      | [Comparator (A new approach)](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2026%20Comparator%20(Better%20Approach)) | https://edaplayground.com/x/Mb2X |
 | Day 27      | [PIPO](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2027%20PIPO) | https://edaplayground.com/x/VVwH |
 | Day 28      | [sn54170](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2028%20sn54170) | https://edaplayground.com/x/kQUr |
 | Day 29      | [Positive Edge Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2029%20Positive%20Edge%20Detector) | https://edaplayground.com/x/juZR |
+| Day 30      | [Carry Look Ahead Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2030%20Carry%20Look%20Ahead%20Adder) | https://edaplayground.com/x/v6ic |
