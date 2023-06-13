@@ -1,8 +1,11 @@
-# 100-Days-of-RTL
+# DISCONTINUED
+
+Involved with HDLBits solutions.. that's RTL too 🙄
+
+## 100-Days-of-RTL
 
 ###  Just trying to follow the trend :-)
 
-##### From Day 1-25, I have tried basic designs. Just wanted to revise the semantics and basic rules!!
 
 | Day         | Github                                                           |  EDAPlayground Link                                             |
 | ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
