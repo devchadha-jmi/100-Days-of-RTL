@@ -37,4 +37,6 @@
 | Day 30      | [Carry Look Ahead Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2030%20Carry%20Look%20Ahead%20Adder) | https://edaplayground.com/x/v6ic |
 
 ## Trying Self Testing Test benches
+| Day         | Github                                                           |  EDAPlayground Link                                             |
+| ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
 | Day 31      | [Full Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2031%20Full%20Adder%20STTB) | https://edaplayground.com/x/LUUC |
