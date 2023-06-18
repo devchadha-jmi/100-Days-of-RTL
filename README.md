@@ -1,7 +1,3 @@
-# DISCONTINUED
-
-Involved with HDLBits solutions.. that's RTL too 🙄
-
 ## 100-Days-of-RTL
 
 ###  Just trying to follow the trend :-)
@@ -39,3 +35,8 @@ Involved with HDLBits solutions.. that's RTL too 🙄
 | Day 28      | [sn54170](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2028%20sn54170) | https://edaplayground.com/x/kQUr |
 | Day 29      | [Positive Edge Detector](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2029%20Positive%20Edge%20Detector) | https://edaplayground.com/x/juZR |
 | Day 30      | [Carry Look Ahead Adder](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2030%20Carry%20Look%20Ahead%20Adder) | https://edaplayground.com/x/v6ic |
+
+## Trying Self Testing Test benches
+| Day         | Github                                                           |  EDAPlayground Link                                             |
+| ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| Day 31      | [Full Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2031%20Full%20Adder%20STTB) | https://edaplayground.com/x/LUUC |
