@@ -41,3 +41,4 @@
 | ----------  | ---------------------------------------------------------------- | -------------------------------------------------------------- |
 | Day 31      | [Full Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2031%20Full%20Adder%20STTB) | https://edaplayground.com/x/LUUC |
 | Day 32      | [Ripple Carry Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2032%20Ripple%20Carry%20Adder%20STTB) | https://edaplayground.com/x/nZRj |
+| Day 33      | [100 Bit Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2032%20Ripple%20Carry%20Adder%20STTB) | https://edaplayground.com/x/cNMg |
