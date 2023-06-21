@@ -43,3 +43,4 @@
 | Day 32      | [Ripple Carry Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2032%20Ripple%20Carry%20Adder%20STTB) | https://edaplayground.com/x/nZRj |
 | Day 33      | [100 Bit Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2033%20100bit%20Adder%20STTB) | https://edaplayground.com/x/cNMg |
 | Day 34      | [2x1 Mux STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2034%202x1%20Mux%20STTB) | https://edaplayground.com/x/7Dvw |
+| Day 38      | [BCD Adder STTB](https://github.com/devchadha-jmi/100-Days-of-RTL/tree/main/Day%2034%202x1%20Mux%20STTB) | https://edaplayground.com/x/iVgy |
